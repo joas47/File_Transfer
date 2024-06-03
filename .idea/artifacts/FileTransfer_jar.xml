@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact name="FileTransfer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileTransfer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="FileTransfer.jar">
+        <element id="module-output" name="FileTransfer" />
+      </element>
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:17.0.6" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:17.0.6" />
+      <element id="library" level="project" name="Maven: org.json:json:20230227" />
+      <element id="library" level="project" name="Maven: com.h2database:h2:2.1.214" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:17.0.6" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:17.0.6" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:17.0.6" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:17.0.6" />
+    </root>
+  </artifact>
+</component>

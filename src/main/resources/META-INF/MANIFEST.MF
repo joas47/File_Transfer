@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: com.example.filetransfer.Launcher
+Class-Path: javafx-graphics-17.0.6-win.jar javafx-controls-17.0.6-win.ja
+ r json-20230227.jar h2-2.1.214.jar javafx-base-17.0.6.jar javafx-contro
+ ls-17.0.6.jar javafx-graphics-17.0.6.jar javafx-base-17.0.6-win.jar
+
