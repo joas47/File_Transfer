@@ -37,7 +37,7 @@ public class FileSender {
      */
     public void send() throws IOException {
         // TODO: Make this SSL: https://github.com/Hakky54/sslcontext-kickstart
-        // SocketFactory factory = SSLSocketFactory.getDefault();
+        // SocketFactory factory = SSLSocketFactory.getDefault(); // only in SSL
         SocketFactory factory = SocketFactory.getDefault();
 
         try (Socket socket = factory.createSocket(server, port);
